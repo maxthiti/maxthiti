@@ -7,7 +7,7 @@ Web Developer
 I've been learning Golang, Learn along with Front-end to be able to work on both sides to become a Software Developer.
 
 * 🌍  I'm based in Phitsanulok, Pathum Thani
-* ✉️  You can contact me at [rattiya1743@gmail.com](mailto:thitipong.rattiya@gmail.com)
+* ✉️  You can contact me at [thitipong.rattiya@gmail.com](mailto:thitipong.rattiya@gmail.com)
 * 🧠  I'm learning Golang, React.js, Anglar
 
 ### Skills
